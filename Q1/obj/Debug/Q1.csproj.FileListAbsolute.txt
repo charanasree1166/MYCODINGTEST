@@ -1,0 +1,6 @@
+C:\Users\keerthi.katakam\Downloads\Personal\Charana Sree\Coding\Q1\bin\Debug\Q1.exe.config
+C:\Users\keerthi.katakam\Downloads\Personal\Charana Sree\Coding\Q1\bin\Debug\Q1.exe
+C:\Users\keerthi.katakam\Downloads\Personal\Charana Sree\Coding\Q1\bin\Debug\Q1.pdb
+C:\Users\keerthi.katakam\Downloads\Personal\Charana Sree\Coding\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+C:\Users\keerthi.katakam\Downloads\Personal\Charana Sree\Coding\Q1\obj\Debug\Q1.exe
+C:\Users\keerthi.katakam\Downloads\Personal\Charana Sree\Coding\Q1\obj\Debug\Q1.pdb
